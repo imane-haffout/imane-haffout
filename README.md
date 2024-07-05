@@ -1,7 +1,3 @@
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=imane-haffout" />
-</div>
-
 <h1 align="center" style="color: #6f42c1;">
   Hi There! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="30" height="30" /> I'm Imane Haffout
 </h1>
@@ -11,9 +7,13 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" />
 </h3>
 
-<hr/><br/>
+<hr/>
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="370" />
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=imane-haffout" />
+</div>
 
 <h3 align="left">ABOUT ME:</h3>
 <ul>
