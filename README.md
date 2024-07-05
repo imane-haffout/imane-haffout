@@ -23,7 +23,7 @@
   <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="20" height="20" /> I occasionally write about technology and coding on my <a href="https://medium.com/@username" target="_blank"><b>blog</b></a>.</li>
   <li>🎯 My career goals include becoming a <b>full-stack developer</b> and contributing to <b>open source projects</b>.</li>
 
-<br/><br/>
+<br/>
 
   <blockquote>
   "The beautiful thing about learning is that nobody can take it away from you." – B.B. King
